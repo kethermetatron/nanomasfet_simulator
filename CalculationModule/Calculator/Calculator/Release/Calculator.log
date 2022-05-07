@@ -1,0 +1,17 @@
+﻿  Calculator.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+d:\qq\fyp\calculationmodule\calculator\calculator\mosfetsimulator.h(462): warning C4018: “<”: 有符号/无符号不匹配
+d:\qq\fyp\calculationmodule\calculator\calculator\mosfetsimulator.h(466): warning C4018: “<”: 有符号/无符号不匹配
+d:\qq\fyp\calculationmodule\calculator\calculator\mosfetsimulator.h(515): warning C4018: “<”: 有符号/无符号不匹配
+d:\qq\fyp\calculationmodule\calculator\calculator\mosfetsimulator.h(590): warning C4018: “<”: 有符号/无符号不匹配
+d:\qq\fyp\calculationmodule\calculator\calculator\mosfetsimulator.h(611): warning C4018: “<”: 有符号/无符号不匹配
+d:\qq\fyp\calculationmodule\calculator\calculator\modelselection.h(26): warning C4018: “<”: 有符号/无符号不匹配
+d:\qq\fyp\calculationmodule\calculator\calculator\modelselection.h(45): warning C4018: “<”: 有符号/无符号不匹配
+d:\qq\fyp\calculationmodule\calculator\calculator\requestreader.h(34): warning C4018: “<”: 有符号/无符号不匹配
+d:\qq\fyp\calculationmodule\calculator\calculator\requestreader.h(39): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  71 of 2698 functions ( 2.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Calculator.vcxproj -> D:\QQ\FYP\CalculationModule\Calculator\Release\Calculator.exe

@@ -1,0 +1,36 @@
+{
+"Model":"RectangularPotentialBarrier",
+"SavePath":"D:/QQ/FYP/CalculationModule/Calculator/Calculator/Data/",
+"SimulationName":"MOSFET",
+"BasicParameter":{
+		"L_Max":1e-8,
+		"L_Min":1e-9,
+		"L_Number":10,
+		"V_DS_Max":5.0,
+		"V_DS_Min":0.0,
+		"V_DS_Number":100,
+		"V_G_Max":0.5,
+		"V_G_Min":0.1,
+		"V_G_Number":5,
+		"T_Max":300,
+		"T_Min":300,
+		"T_Number":1
+		},
+"SourceParameter":
+	{
+		"Delta_E":0.01,
+		"E_B":0.7,
+		"E_Max":2.0,
+		"E_Min":0.01,
+		"E_f":0.5
+	},
+"DrainParameter":
+	{
+		
+		"Delta_E":0.01,
+		"E_B":0.7,
+		"E_Max":2.0,
+		"E_Min":0.01,
+		"E_f":0.5
+	}
+}

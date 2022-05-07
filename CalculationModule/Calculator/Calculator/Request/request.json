@@ -1,0 +1,33 @@
+{
+  "Model": "RectangularPotentialBarrier",
+  "SavePath": "C:/Users/yzc/Desktop/bank/Data1/",
+  "SimulationName": "Simulation1",
+  "BasicParameter": {
+    "L_Max": 1E-08,
+    "L_Min": 1E-08,
+    "L_Number": 1.0,
+    "T_Max": 300.0,
+    "T_Min": 300.0,
+    "T_Number": 1.0,
+    "V_G_Max": 0.2,
+    "V_G_Min": -0.2,
+    "V_G_Number": 100.0,
+    "V_DS_Max": 0.1,
+    "V_DS_Min": 0.01,
+    "V_DS_Number": 20.0
+  },
+  "SourceParameter": {
+    "E_B": 0.2,
+    "E_f": 0.22,
+    "E_Min": 0.05,
+    "E_Max": 0.22,
+    "Delta_E": 0.01
+  },
+  "DrainParameter": {
+    "E_B": 0.2,
+    "E_f": 0.22,
+    "E_Min": 0.05,
+    "E_Max": 0.22,
+    "Delta_E": 0.01
+  }
+}
